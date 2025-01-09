@@ -1,5 +1,5 @@
 {
-	"name": "biome-repro",
+	"name": "biome-vscode-formatter-ignore-matched-against-absolute-paths",
 	"version": "0.0.0",
 	"private": true,
 	"type": "module",
